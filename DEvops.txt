@@ -1,0 +1,13 @@
+Devops Tools
+
+Version control: git, github ****
+build tool: Maven
+CI/CD: Jenkins****
+Code quality tool: sonarqube
+artifactory: jfrog
+cloud: AWS,GCP***
+orchestration tool: kubernetes****
+container tool: Docker****
+IAC: Terraform****
+confugiration management tool: Ansible****
+ 
